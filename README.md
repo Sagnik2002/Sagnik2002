@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sagnik2002
 - 👀 I’m interested in Web Development||Android Development
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning WebD
 - 💞️ I’m looking to collaborate on WebDev Projects
 - 📫 How to reach me ...
 
