@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagnik Basak</h1>
 <h3 align="center">A passionate Developer. Looking forward to learning new things and expand my knowledge in the field of Software Development.</h3>
 
-<img align="center" alt="Coder" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<img align="right" alt="Coder" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik2002&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik2002" /> </p>
 
