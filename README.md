@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Developer. Looking forward to learning new things and expand my knowledge in the field of Software Development.</h3>
 
 
-![header](https://github.com/Sagnik2002/Sagnik2002/blob/main/coder_1.gif)
+![header](https://github.com/Sagnik2002/Sagnik2002/blob/main/Sagnik_Readme_Profile.gif)
 
 
 
