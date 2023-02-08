@@ -263,6 +263,18 @@
   </a>
   
 </p>
+<h3 align="center">Shell:</h3>
+<p align="center">
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+     <img
+    src="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg"
+    alt="bash"
+    width="40"
+    height="40"
+  />
+  </a>       
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik2002&show_icons=true&locale=en&layout=compact" alt="sagnik2002" /></p>
 
