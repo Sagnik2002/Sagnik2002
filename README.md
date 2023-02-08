@@ -199,7 +199,7 @@
 <p  align="center">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img
-    src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+    src="https://seeklogo.com/images/N/next-logo-E4C61C8BC0-seeklogo.com.png"
     alt="nextjs"
     width="40"
     height="40"
