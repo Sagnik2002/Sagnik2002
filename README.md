@@ -174,7 +174,7 @@
        </a>
 </p>
 
-<h3 align="center">Backend as Service:</h3>
+<h3 align="center">Cloud:</h3>
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img
@@ -184,6 +184,31 @@
     height="40"
   />
 </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png"
+    alt="netlify"
+    width="40"
+    height="40"
+  />
+</a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://intellyx.com/wp-content/uploads/2019/08/Render-cloud-intellyx-BC-logo.png"
+    alt="render"
+    width="40"
+    height="40"
+  />
+</a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://nextjs.org/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F35255%2F1665957463-sponsor-logo-vercel.png&w=1920&q=75"
+    alt="vercel"
+    width="40"
+    height="40"
+  />
+</a>
+  
 <a href="https://heroku.com" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
