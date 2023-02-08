@@ -248,11 +248,20 @@
   <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank" rel="noreferrer">
      <img
     src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png"
-    alt="postman"
+    alt="windows"
     width="40"
     height="40"
   />
   </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+     <img
+    src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png"
+    alt="ubuntu"
+    width="40"
+    height="40"
+  />
+  </a>
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik2002&show_icons=true&locale=en&layout=compact" alt="sagnik2002" /></p>
