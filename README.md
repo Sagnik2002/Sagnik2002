@@ -273,6 +273,14 @@
     height="40"
   />
   </a>       
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+     <img
+    src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png"
+    alt="powershell"
+    width="40"
+    height="40"
+  />
+  </a>       
 </p>
 
 
