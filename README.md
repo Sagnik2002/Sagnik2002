@@ -242,6 +242,18 @@
     height="40"
   />
 </a>
+  
+<h3 align="center">OS:</h3>
+<p align="center">
+  <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank" rel="noreferrer">
+     <img
+    src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png"
+    alt="postman"
+    width="40"
+    height="40"
+  />
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik2002&show_icons=true&locale=en&layout=compact" alt="sagnik2002" /></p>
 
