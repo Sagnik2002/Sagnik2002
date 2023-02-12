@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sagnik2002/Sagnik2002/blob/main/My%20Readme%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Sagnik Basak</h1>
-<h3 align="center">A passionate Developer. Looking forward to learning new things and expand my knowledge in the field of Software Development.</h3>
+<h3 align="center">A passionate Developer. Looking forward to learn new things and expand my knowledge in the field of Software Development.</h3>
 
 
 ![header](https://github.com/Sagnik2002/Sagnik2002/blob/main/Sagnik_Readme_Profile.gif)
