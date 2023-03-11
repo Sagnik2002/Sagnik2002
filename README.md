@@ -304,10 +304,12 @@
   />
   </a>       
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik2002&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="sagnik2002" /></p>
+<br/>
+<span>
+<p>&ensp;&ensp;&ensp;&ensp;&ensp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik2002&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="sagnik2002" /></p>
 
 <p>&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnik2002&show_icons=true&theme=midnight-purple&locale=en" alt="sagnik2002" /></p>
-
+</span>
+<br/>
+<br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik2002&theme=vision-friendly-dark" alt="sagnik2002" /></p>
