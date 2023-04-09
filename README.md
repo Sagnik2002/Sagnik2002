@@ -14,6 +14,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Programming Languages:</h3>
+<p align="center" height="100">
+<a height="200" href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-top="500px" src="https://readme-typing-svg.herokuapp.com?lines=Eat;Sleep;Code;Repeat&width=75&height=45"></a></p>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
