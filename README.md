@@ -316,6 +316,7 @@
 <br/>
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik2002&theme=vision-friendly-dark" alt="sagnik2002" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">I hope my Contributions won't end up like this 🥲</h2>
 
 ![snake gif](https://raw.githubusercontent.com/Sagnik2002/Sagnik2002/output/github-contribution-grid-snake.svg)
