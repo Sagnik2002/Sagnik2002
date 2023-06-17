@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sagnik2002/Sagnik2002/blob/main/My%20Readme%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Sagnik Basak</h1>
-<h3 align="center">A passionate Developer. Looking forward to learn new things and expand my knowledge in the field of Software Development.</h3>
+<h3 align="center">A passionate Developer. Looking forward to learning new things and expanding my knowledge in the field of Software Development.</h3>
 
 
 ![header](https://github.com/Sagnik2002/Sagnik2002/blob/main/Sagnik_Readme_Profile.gif)
@@ -14,7 +14,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center" height="100">
 <a height="200" href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-top="500px" src="https://readme-typing-svg.herokuapp.com?lines=Eat;Sleep;Code;Repeat&width=75&height=45"></a></p>
-<h3 align="center">Programming Languages:</h3>
+<div align="center">
+<img align="center" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</div>
+  <h3 align="center">Programming Languages:</h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
