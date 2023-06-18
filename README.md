@@ -315,9 +315,7 @@
 
 <span>
   <h1 align="center">Stats: </h2>
-<p>&ensp;&ensp;&ensp;&ensp;&ensp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik2002&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="sagnik2002" /></p>
 
-<p>&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnik2002&show_icons=true&theme=midnight-purple&locale=en&count_private=true" alt="sagnik2002" /></p>
 </span>
 <br/>
 <br/>
