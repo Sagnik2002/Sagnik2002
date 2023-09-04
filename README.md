@@ -324,3 +324,6 @@
 <h2 align="center">I hope my Contributions won't end up like this 🥲</h2>
 
 ![snake gif](https://raw.githubusercontent.com/Sagnik2002/Sagnik2002/output/github-contribution-grid-snake.svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Sagnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagnik2002&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
