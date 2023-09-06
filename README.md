@@ -327,3 +327,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Sagnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagnik2002&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Contact Me: </h2>
+<p align="center">
+<a href = "mailto:sagnikbasak2002@gmail.com?subject=From Github Profile"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href = "https://www.linkedin.com/in/sagnik-basak-886687205/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</p>
