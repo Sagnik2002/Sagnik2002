@@ -1,6 +1,9 @@
 ![logo](https://github.com/Sagnik2002/Sagnik2002/blob/main/My%20Readme%20Banner.gif)
-<h1 align="center">Hi 👋, I'm Sagnik Basak</h1>
-<h3 align="center">I'm an enthusiastic developer eagerly seeking opportunities to broaden my software development skills and knowledge. I'm driven to explore new horizons and continuously grow in the dynamic field of software development.</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=900&pause=1000&color=0AF7ED&background=0F0F0F00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sagnik+Basak)](https://git.io/typing-svg)
+</br>
+
+<h4 >I'm an enthusiastic developer eagerly seeking opportunities to broaden my software development skills and knowledge. I'm driven to explore new horizons and continuously grow in the dynamic field of software development.</h3>
 
 
 ![header](https://github.com/Sagnik2002/Sagnik2002/blob/main/Sagnik_Readme_Profile.gif)
