@@ -75,7 +75,7 @@ Prompt → full course with lessons, quizzes, podcast & images, streamed live. 5
 </td>
 <td align="center" valign="top" width="25%">
 <br/>
-<h3>🧬 LifeOrg</h3>
+<h3>🧬 <a href="https://lifeorg.ai/">LifeOrg</a></h3>
 <b>AI Wellness Platform</b>
 <br/><br/>
 9 text agents + 6 real-time voice agents for nutrition, sleep & habits. Your AI wellness squad that never calls in sick.
@@ -85,7 +85,7 @@ Prompt → full course with lessons, quizzes, podcast & images, streamed live. 5
 </td>
 <td align="center" valign="top" width="25%">
 <br/>
-<h3>🔬 ResearchX</h3>
+<h3>🔬 <a href="https://www.research3.ai/">ResearchX</a></h3>
 <b>AI Research Platform</b>
 <br/><br/>
 RAG-powered research assistant with PDF parsing + vector search. Google Scholar, but it <i>actually</i> gets what you're asking.
@@ -95,7 +95,7 @@ RAG-powered research assistant with PDF parsing + vector search. Google Scholar,
 </td>
 <td align="center" valign="top" width="25%">
 <br/>
-<h3>🎙️ ScribeOS</h3>
+<h3>🎙️ <a href="https://scribeos.xyz/">ScribeOS</a></h3>
 <b>AI Transcription</b>
 <br/><br/>
 Audio → transcripts → AI summaries. On-chain payments via X402 because regular billing is too mainstream.
