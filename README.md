@@ -24,7 +24,7 @@
 <!-- WHO AM I -->
 <table width="100%">
 <tr>
-<td valign="top" width="60%">
+<td valign="middle" width="60%">
 
 ### 🙋‍♂️ Who Am I?
 
@@ -44,8 +44,7 @@ const sagnik = {
 ```
 
 </td>
-<td valign="top" width="40%" align="center">
-<br/><br/>
+<td valign="middle" width="40%" align="center">
 <img src="https://raw.githubusercontent.com/Sagnik2002/Sagnik2002/main/Sagnik_Readme_Profile.gif" width="95%" alt="Sagnik Profile GIF"/>
 </td>
 </tr>
